@@ -9,4 +9,4 @@ blink exercise app for WWDC Swift Student Challenge 2022 submission
 5. Go along follow the scene of game, enjoy~
 6. Youtube Tutorial https://youtube.com/shorts/pkJzsajsu28
 
-[Extra Large Copy 7@1x.pdf](https://github.com/gilapo/BlinkTrainer/files/9906341/Extra.Large.Copy.7%401x.pdf)
+![Extra Large Copy 7@1x](https://user-images.githubusercontent.com/44209451/199147426-6d033d6f-feeb-4b13-8f80-de0e6e3648ef.png)
